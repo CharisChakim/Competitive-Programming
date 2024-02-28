@@ -1,2 +1,2 @@
 # About
-This repository contain my python training from any resource
+This repository contains my Python training materials from various resources, including competitive programming.
